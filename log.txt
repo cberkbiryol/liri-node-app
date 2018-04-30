@@ -1,0 +1,79 @@
+node liri.js my-tweets
+
+___________________________________________
+Created at: Mon Apr 30 05:35:30 +0000 2018 Tweet: RT @yaklis: @modernsabahlar Kebapçıda garsonlar ter kokmaya başlayınca...
+Created at: Mon Apr 30 05:35:25 +0000 2018 Tweet: RT @AmaHocam: @modernsabahlar İstanbul Sahil Yolu’nun mangal dumanı altında kalması.
+Created at: Mon Apr 30 05:20:38 +0000 2018 Tweet: RT @kcongu: @modernsabahlar mutfakta yürürken ayağıma karpuz çekirdeği batmaya başladıysa yaz gelmiştir efenim
+Created at: Mon Apr 30 05:12:21 +0000 2018 Tweet: RT @onuruguru: @modernsabahlar Şirketten gelen kışlık lastiklerinizi değiştirin uyarısı.
+Created at: Mon Apr 30 05:12:16 +0000 2018 Tweet: RT @mchdkaya: @modernsabahlar Serdar ortaç ve yalin'in yeni şarki yapmasi
+Created at: Mon Apr 30 05:04:12 +0000 2018 Tweet: Yaz geldi mi ki? 
+Size göre yazın gelişinin göstergesi ne?
+Hadi buyurun...
+02123686220
+Created at: Mon Apr 30 03:02:54 +0000 2018 Tweet: I like twitter
+Created at: Sun Apr 29 09:20:01 +0000 2018 Tweet: İsim benzerliği sanmıştım, ama bu patton oswalt bildiğimiz komedyenmiş. https://t.co/r6w2JPMHqn
+Created at: Sun Apr 29 08:35:56 +0000 2018 Tweet: Hayalimdeki orkestra https://t.co/Zcw767vcAv
+Created at: Sat Apr 28 21:15:27 +0000 2018 Tweet: RT @enazlie: Hastasıyım! Hastasıyız! 💕@modernsabahlar https://t.co/qIA8tsyCTl
+Created at: Sat Apr 28 16:34:29 +0000 2018 Tweet: RT @SibelOktay: İsmim etrafında geniş bir mutabakat sağlanamadığı için yapmaktan vazgeçtiğim şeyler: halay başı olmak.
+Created at: Sat Apr 28 08:03:53 +0000 2018 Tweet: Dün geceki modern sabahlar unplugged https://t.co/yuprOsIC1W
+Created at: Sat Apr 28 07:56:55 +0000 2018 Tweet: O flaşlar gece boyunca gıcıklık için mi patladı?
+Created at: Sat Apr 28 07:56:54 +0000 2018 Tweet: Gelgelelim instagram’da sadece bir fotoğrafta taglenmişim. Biz ne zaman böyle bir toplum olduk.
+Created at: Sat Apr 28 07:56:54 +0000 2018 Tweet: Modern Sabahlar Unplugged adeta bir günah gecesiydi, herkese teşekkürler
+Created at: Fri Apr 27 11:17:54 +0000 2018 Tweet: Yeni prufil fotom https://t.co/CffImSTQkO
+Created at: Fri Apr 27 10:56:21 +0000 2018 Tweet: Kızum arkadaşıyla grease seyrediyor. Yanlarına gideyim de bir “agatçilz” dinleyin
+Created at: Fri Apr 27 06:41:00 +0000 2018 Tweet: RT @ardarda7: @modernsabahlar Köpekle Konuşan Adam https://t.co/2MFA6MFaZm
+Created at: Fri Apr 27 06:21:15 +0000 2018 Tweet: RT @enazlie: @modernsabahlar Ve tabii ki Bal Porsuğu! Sadece dilinden anlamak isterdim kavgada sağlam küfür dağarcığı yoksa ben de bir şey…
+Created at: Fri Apr 27 05:51:08 +0000 2018 Tweet: RT @Ortacagcadisi: @modernsabahlar. Bakınız efenim uçağa binen sinekler de var https://t.co/x4B1ivYGLA
+___________________________________________
+node liri.js spotify-this-song "I Want it That Way"
+
+Artist(s): Backstreet Boys
+Song Name: I Want It That Way
+Preview Link: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=60d67ea356fb4cf091c899be997c05bf
+Album: The Hits--Chapter One
+___________________________________________
+node liri.js movie-this Titanic
+Title: Titanic
+Year: 1997
+IMDB Rating: 7.8
+Rotten Tomatoes Rating: 88%
+Country of Production: USA
+Language: English, Swedish
+Plot: A seventeen-year-old aristocrat falls in love with a kind but poor artist aboard the luxurious, ill-fated R.M.S. Titanic.
+Actors: Leonardo DiCaprio, Kate Winslet, Billy Zane, Kathy Bates
+
+___________________________________________
+node liri.js spotify-this-song undefined
+Artist(s): Ace of Base
+Song Name: The Sign
+Preview Link: https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=60d67ea356fb4cf091c899be997c05bf
+Album: The Sign (US Album) [Remastered]
+
+
+___________________________________________
+node liri.js spotify-this-song King of sorrow
+Artist(s): August Burns Red
+Song Name: King Of Sorrow
+Preview Link: null
+Album: Phantom Anthem
+
+___________________________________________
+node liri.js spotify-this-song The sign
+Artist(s): Ty Dolla $ign
+Song Name: Or Nah (feat. The Weeknd, Wiz Khalifa and DJ Mustard) - Remix
+Preview Link: https://p.scdn.co/mp3-preview/70f126c139847335bc03c756c55b80c99892268e?cid=60d67ea356fb4cf091c899be997c05bf
+Album: Or Nah (feat. The Weeknd, Wiz Khalifa and DJ Mustard) [Remix Version]
+
+___________________________________________
+node liri.js spotify-this-song The sign
+Artist(s): Ace of Base
+Song Name: The Sign
+Preview Link: https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=60d67ea356fb4cf091c899be997c05bf
+Album: The Sign (US Album) [Remastered]
+
+___________________________________________
+node liri.js spotify-this-song undefined
+Artist(s): Ace of Base
+Song Name: The Sign
+Preview Link: https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=60d67ea356fb4cf091c899be997c05bf
+Album: The Sign (US Album) [Remastered]
