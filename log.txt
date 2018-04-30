@@ -77,3 +77,10 @@ Artist(s): Ace of Base
 Song Name: The Sign
 Preview Link: https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=60d67ea356fb4cf091c899be997c05bf
 Album: The Sign (US Album) [Remastered]
+
+___________________________________________
+node liri.js spotify-this-song They danced alone
+Artist(s): London Symphony Orchestra
+Song Name: They Danced Alone
+Preview Link: https://p.scdn.co/mp3-preview/2d8e5215597ce21a3fcdf0049580645e35343634?cid=60d67ea356fb4cf091c899be997c05bf
+Album: The London Symphony Orchestra Performs The Music of Sting
